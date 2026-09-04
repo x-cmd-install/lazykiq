@@ -7,7 +7,7 @@ about:
   head: a0dcc69
   archived: false
   latestVersion: v0.1.2
-  collectedAt: 2026-09-04T19:35:06Z
+  collectedAt: 2026-09-04T20:58:46Z
 timeline:
   created: 2025-12-24
   lastCommit: 2026-08-31
@@ -83,6 +83,69 @@ total:
   openIssue: 0
   commit: 452
 ---
+path: /home/runner/.x-repo/github.com/kpumuk/lazykiq
+collectedAt: 2026-09-04T20:58:49Z
+loc:
+  Go:
+    code: 25304
+    comments: 1385
+    blanks: 3953
+    files: 112
+  Ruby:
+    code: 492
+    comments: 50
+    blanks: 111
+    files: 15
+  Toml:
+    code: 400
+    comments: 62
+    blanks: 89
+    files: 9
+  Html:
+    code: 191
+    comments: 2
+    blanks: 11
+    files: 7
+  JavaScript:
+    code: 181
+    comments: 21
+    blanks: 19
+    files: 4
+  Yaml:
+    code: 73
+    comments: 0
+    blanks: 4
+    files: 2
+  Sass:
+    code: 50
+    comments: 2
+    blanks: 8
+    files: 2
+  Json:
+    code: 41
+    comments: 0
+    blanks: 0
+    files: 1
+  Dockerfile:
+    code: 9
+    comments: 0
+    blanks: 7
+    files: 1
+  Svg:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 874
+    blanks: 247
+    files: 20
+total:
+  code: 26821
+  comments: 2412
+  blanks: 4461
+  files: 174
 ---
 date: "2026-08-31T21:39:15Z"
 repo:
