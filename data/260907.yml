@@ -5,7 +5,7 @@ about:
   head: a0dcc69
   archived: false
   latestVersion: "v0.1.2"
-  collectedAt: 2026-09-07T04:18:36Z
+  collectedAt: 2026-09-07T20:02:38Z
 timeline:
   created: 2025-12-24
   lastCommit: 2026-08-31
@@ -16,7 +16,7 @@ popularity:
   fork: 1
   release: 19
   contributor: 4
-  pullRequest: 129
+  pullRequest: 132
   issue: 0
 language:
   Go: 778448
@@ -29,7 +29,7 @@ recent:
     since: 2026-08-08
     release: 1
     mergedPR: 22
-    openPR: 0
+    openPR: 3
     closedIssue: 0
     openIssue: 0
     commit: 19
@@ -37,7 +37,7 @@ recent:
     since: 2026-07-09
     release: 1
     mergedPR: 37
-    openPR: 0
+    openPR: 3
     closedIssue: 0
     openIssue: 0
     commit: 32
@@ -45,7 +45,7 @@ recent:
     since: 2026-06-09
     release: 1
     mergedPR: 45
-    openPR: 0
+    openPR: 3
     closedIssue: 0
     openIssue: 0
     commit: 50
@@ -53,7 +53,7 @@ recent:
     since: 2026-03-11
     release: 6
     mergedPR: 103
-    openPR: 0
+    openPR: 3
     closedIssue: 0
     openIssue: 0
     commit: 135
@@ -61,7 +61,7 @@ recent:
     since: 2025-09-12
     release: 19
     mergedPR: 120
-    openPR: 0
+    openPR: 3
     closedIssue: 0
     openIssue: 0
     commit: 342
@@ -69,20 +69,20 @@ recent:
     since: 2024-09-17
     release: 19
     mergedPR: 120
-    openPR: 0
+    openPR: 3
     closedIssue: 0
     openIssue: 0
     commit: 452
 total:
   release: 19
   mergedPR: 120
-  openPR: 0
+  openPR: 3
   closedIssue: 0
   openIssue: 0
   commit: 452
 ---
 path: /home/runner/.x-repo/github.com/kpumuk/lazykiq
-collectedAt: 2026-09-07T04:18:38Z
+collectedAt: 2026-09-07T20:02:41Z
 loc:
   Go:
     code: 25304
@@ -275,7 +275,7 @@ checks:
     details: null
 ---
 eget:
-  collectedAt: 2026-09-07T04:18:39+00:00
+  collectedAt: 2026-09-07T20:02:42+00:00
   platform:
     darwin/arm64:
       name:  lazykiq-0.1.2-darwin-arm64.tar.gz
