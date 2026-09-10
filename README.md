@@ -23,7 +23,26 @@ x install lazykiq
 - **Latest**: `v0.1.2` (2026-08-25)
 - **Last commit**: 2026-08-31
 - **Assets in release**: 15
-- **Published**: 2026-08-25T01:12:45Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/checksums.txt) | 1.2 KiB | `other` |
+| [checksums.txt.intoto.jsonl](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/checksums.txt.intoto.jsonl) | 12.4 KiB | `other` |
+| [checksums.txt.sigstore.json](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/checksums.txt.sigstore.json) | 9.9 KiB | `other` |
+| [lazykiq-0.1.2-darwin-arm64.tar.gz](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-darwin-arm64.tar.gz) | 5.6 MiB | `native/darwin/arm64` |
+| [lazykiq-0.1.2-darwin-arm64.tar.gz.sbom.json](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-darwin-arm64.tar.gz.sbom.json) | 53.1 KiB | `native/darwin/arm64` |
+| [lazykiq-0.1.2-darwin-x86_64.tar.gz](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-darwin-x86_64.tar.gz) | 6.2 MiB | `native/darwin/x64` |
+| [lazykiq-0.1.2-darwin-x86_64.tar.gz.sbom.json](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-darwin-x86_64.tar.gz.sbom.json) | 53.2 KiB | `native/darwin/x64` |
+| [lazykiq-0.1.2-linux-arm64.tar.gz](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-linux-arm64.tar.gz) | 5.4 MiB | `native/linux/arm64` |
+| [lazykiq-0.1.2-linux-arm64.tar.gz.sbom.json](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-linux-arm64.tar.gz.sbom.json) | 53.1 KiB | `native/linux/arm64` |
+| [lazykiq-0.1.2-linux-x86_64.tar.gz](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-linux-x86_64.tar.gz) | 6.1 MiB | `native/linux/x64` |
+| [lazykiq-0.1.2-linux-x86_64.tar.gz.sbom.json](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-linux-x86_64.tar.gz.sbom.json) | 53.1 KiB | `native/linux/x64` |
+| [lazykiq-0.1.2-windows-arm64.zip](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-windows-arm64.zip) | 5.5 MiB | `native/win/arm64` |
+| [lazykiq-0.1.2-windows-arm64.zip.sbom.json](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-windows-arm64.zip.sbom.json) | 54.2 KiB | `native/win/arm64` |
+| [lazykiq-0.1.2-windows-x86_64.zip](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-windows-x86_64.zip) | 6.3 MiB | `native/win/x64` |
+| [lazykiq-0.1.2-windows-x86_64.zip.sbom.json](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-windows-x86_64.zip.sbom.json) | 54.3 KiB | `native/win/x64` |
 
 ## Popularity
 
@@ -68,8 +87,8 @@ Lowest-scoring checks:
 Install metadata for lazykiq lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `lazykiq` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/lazykiq.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/lazykiq.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:23:05Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:11:53Z._

@@ -4,7 +4,7 @@
 
 rich terminal UI for Sidekiq
 
-![lazykiq](https://repo.x-cmd.io/lazykiq.svg)
+![lazykiq](https://repo.x-cmd.io/lazykiq.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,26 @@ x install lazykiq
 - **最新版本**: `v0.1.2` (2026-08-25)
 - **最近提交**: 2026-08-31
 - **Release 含资产**: 15 个
-- **发布时间**: 2026-08-25T01:12:45Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/checksums.txt) | 1.2 KiB | `other` |
+| [checksums.txt.intoto.jsonl](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/checksums.txt.intoto.jsonl) | 12.4 KiB | `other` |
+| [checksums.txt.sigstore.json](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/checksums.txt.sigstore.json) | 9.9 KiB | `other` |
+| [lazykiq-0.1.2-darwin-arm64.tar.gz](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-darwin-arm64.tar.gz) | 5.6 MiB | `native/darwin/arm64` |
+| [lazykiq-0.1.2-darwin-arm64.tar.gz.sbom.json](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-darwin-arm64.tar.gz.sbom.json) | 53.1 KiB | `native/darwin/arm64` |
+| [lazykiq-0.1.2-darwin-x86_64.tar.gz](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-darwin-x86_64.tar.gz) | 6.2 MiB | `native/darwin/x64` |
+| [lazykiq-0.1.2-darwin-x86_64.tar.gz.sbom.json](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-darwin-x86_64.tar.gz.sbom.json) | 53.2 KiB | `native/darwin/x64` |
+| [lazykiq-0.1.2-linux-arm64.tar.gz](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-linux-arm64.tar.gz) | 5.4 MiB | `native/linux/arm64` |
+| [lazykiq-0.1.2-linux-arm64.tar.gz.sbom.json](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-linux-arm64.tar.gz.sbom.json) | 53.1 KiB | `native/linux/arm64` |
+| [lazykiq-0.1.2-linux-x86_64.tar.gz](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-linux-x86_64.tar.gz) | 6.1 MiB | `native/linux/x64` |
+| [lazykiq-0.1.2-linux-x86_64.tar.gz.sbom.json](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-linux-x86_64.tar.gz.sbom.json) | 53.1 KiB | `native/linux/x64` |
+| [lazykiq-0.1.2-windows-arm64.zip](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-windows-arm64.zip) | 5.5 MiB | `native/win/arm64` |
+| [lazykiq-0.1.2-windows-arm64.zip.sbom.json](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-windows-arm64.zip.sbom.json) | 54.2 KiB | `native/win/arm64` |
+| [lazykiq-0.1.2-windows-x86_64.zip](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-windows-x86_64.zip) | 6.3 MiB | `native/win/x64` |
+| [lazykiq-0.1.2-windows-x86_64.zip.sbom.json](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-windows-x86_64.zip.sbom.json) | 54.3 KiB | `native/win/x64` |
 
 ## 流行度
 
@@ -72,4 +91,4 @@ lazykiq 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:23:06Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:11:57Z._
