@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 17 | 3 | 0 | 0 | 19 |
-| last60d | 2026-07-12 | 1 | 37 | 3 | 0 | 0 | 32 |
-| 90d | 2026-06-12 | 1 | 45 | 3 | 0 | 0 | 50 |
-| last180d | 2026-03-14 | 6 | 103 | 3 | 0 | 0 | 135 |
-| 360d | 2025-09-15 | 19 | 120 | 3 | 0 | 0 | 342 |
-| last720d | 2024-09-20 | 19 | 120 | 3 | 0 | 0 | 452 |
+| 30d | 2026-08-12 | 1 | 17 | 3 | 0 | 0 | 19 |
+| last60d | 2026-07-13 | 1 | 30 | 3 | 0 | 0 | 32 |
+| 90d | 2026-06-13 | 1 | 45 | 3 | 0 | 0 | 50 |
+| last180d | 2026-03-15 | 6 | 103 | 3 | 0 | 0 | 135 |
+| 360d | 2025-09-16 | 19 | 120 | 3 | 0 | 0 | 342 |
+| last720d | 2024-09-21 | 19 | 120 | 3 | 0 | 0 | 452 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for lazykiq lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:39:40Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:22:09Z._
