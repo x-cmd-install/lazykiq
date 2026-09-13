@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Code-Review** (0/10) — Found 0/5 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Fuzzing** (0/10) — project is not fuzzed
+- **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
 
 ## Source
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 1 | 17 | 3 | 0 | 0 | 19 |
-| last60d | 2026-07-14 | 1 | 30 | 3 | 0 | 0 | 32 |
-| 90d | 2026-06-14 | 1 | 45 | 3 | 0 | 0 | 50 |
-| last180d | 2026-03-16 | 6 | 102 | 3 | 0 | 0 | 135 |
-| 360d | 2025-09-17 | 19 | 120 | 3 | 0 | 0 | 342 |
-| last720d | 2024-09-22 | 19 | 120 | 3 | 0 | 0 | 452 |
+| 30d | 2026-08-14 | 1 | 17 | 3 | 0 | 0 | 19 |
+| last60d | 2026-07-15 | 1 | 30 | 3 | 0 | 0 | 30 |
+| 90d | 2026-06-15 | 1 | 44 | 3 | 0 | 0 | 50 |
+| last180d | 2026-03-17 | 6 | 102 | 3 | 0 | 0 | 94 |
+| 360d | 2025-09-18 | 19 | 120 | 3 | 0 | 0 | 342 |
+| last720d | 2024-09-23 | 19 | 120 | 3 | 0 | 0 | 452 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for lazykiq lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T04:20:28Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T04:34:04Z._
