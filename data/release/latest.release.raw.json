@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 6440180,
       "digest": "sha256:d6a962006717756f54b956dfb3259052d9c686ec772c423a854e22efd1041454",
-      "download_count": 30,
+      "download_count": 32,
       "created_at": "2026-08-25T01:10:38Z",
       "updated_at": "2026-08-25T01:10:39Z",
       "browser_download_url": "https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-linux-x86_64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 5764822,
       "digest": "sha256:e1cb27b90caa1ec2d7659dff683c48a4a9fee083470dc3d385bea2a55c1fba78",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-08-25T01:10:37Z",
       "updated_at": "2026-08-25T01:10:38Z",
       "browser_download_url": "https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-windows-arm64.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 6652443,
       "digest": "sha256:19c1d4a0f15fef085a0af85d414d6ca6572fd49f528d2ccaf41d8c2feaf0849c",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-08-25T01:10:37Z",
       "updated_at": "2026-08-25T01:10:38Z",
       "browser_download_url": "https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-windows-x86_64.zip"
