@@ -30,9 +30,9 @@ Overall score: **8.1 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/5 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/2 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.1.2` (2026-08-25)
-- **Last commit**: 2026-08-31
+- **Last commit**: 2026-09-14
 - **Assets in release**: 15
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 120 · **Open PRs**: 3 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 452
+- **Releases**: 19 · **Merged PRs**: 125 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 462
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 1 | 17 | 3 | 0 | 0 | 19 |
-| last60d | 2026-07-16 | 1 | 30 | 3 | 0 | 0 | 30 |
-| 90d | 2026-06-16 | 1 | 44 | 3 | 0 | 0 | 50 |
-| last180d | 2026-03-18 | 6 | 98 | 3 | 0 | 0 | 94 |
-| 360d | 2025-09-19 | 19 | 120 | 3 | 0 | 0 | 342 |
-| last720d | 2024-09-24 | 19 | 120 | 3 | 0 | 0 | 452 |
+| 30d | 2026-08-16 | 1 | 22 | 0 | 0 | 0 | 24 |
+| last60d | 2026-07-17 | 1 | 35 | 0 | 0 | 0 | 35 |
+| 90d | 2026-06-17 | 1 | 49 | 0 | 0 | 0 | 55 |
+| last180d | 2026-03-19 | 5 | 97 | 0 | 0 | 0 | 99 |
+| 360d | 2025-09-20 | 19 | 125 | 0 | 0 | 0 | 347 |
+| last720d | 2024-09-25 | 19 | 125 | 0 | 0 | 0 | 462 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for lazykiq lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T04:40:55Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T04:41:01Z._

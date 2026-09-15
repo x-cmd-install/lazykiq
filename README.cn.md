@@ -30,9 +30,9 @@ x install lazykiq
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/5 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/2 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
 
@@ -43,7 +43,7 @@ x install lazykiq
 ## 发布
 
 - **最新版本**: `v0.1.2` (2026-08-25)
-- **最近提交**: 2026-08-31
+- **最近提交**: 2026-09-14
 - **Release 含资产**: 15 个
 
 ## 流行度
@@ -52,18 +52,18 @@ x install lazykiq
 
 ## 累计统计
 
-- **发布数**: 19 · **已合并 PR**: 120 · **开放 PR**: 3 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 452
+- **发布数**: 19 · **已合并 PR**: 125 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 462
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 1 | 17 | 3 | 0 | 0 | 19 |
-| last60d | 2026-07-16 | 1 | 30 | 3 | 0 | 0 | 30 |
-| 90d | 2026-06-16 | 1 | 44 | 3 | 0 | 0 | 50 |
-| last180d | 2026-03-18 | 6 | 98 | 3 | 0 | 0 | 94 |
-| 360d | 2025-09-19 | 19 | 120 | 3 | 0 | 0 | 342 |
-| last720d | 2024-09-24 | 19 | 120 | 3 | 0 | 0 | 452 |
+| 30d | 2026-08-16 | 1 | 22 | 0 | 0 | 0 | 24 |
+| last60d | 2026-07-17 | 1 | 35 | 0 | 0 | 0 | 35 |
+| 90d | 2026-06-17 | 1 | 49 | 0 | 0 | 0 | 55 |
+| last180d | 2026-03-19 | 5 | 97 | 0 | 0 | 0 | 99 |
+| 360d | 2025-09-20 | 19 | 125 | 0 | 0 | 0 | 347 |
+| last720d | 2024-09-25 | 19 | 125 | 0 | 0 | 0 | 462 |
 
 ## Release 资产
 
@@ -94,4 +94,4 @@ lazykiq 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260914.yml` · 2026-09-14T04:40:59Z._
+_数据快照: `data/card/260915.yml` · 2026-09-15T04:41:03Z._
