@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 125 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 462
+- **Releases**: 19 · **Merged PRs**: 125 · **Open PRs**: 3 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 462
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 1 | 20 | 0 | 0 | 0 | 10 |
-| last60d | 2026-07-23 | 1 | 33 | 0 | 0 | 0 | 33 |
-| 90d | 2026-06-23 | 1 | 47 | 0 | 0 | 0 | 55 |
-| last180d | 2026-03-25 | 2 | 83 | 0 | 0 | 0 | 89 |
-| 360d | 2025-09-26 | 19 | 125 | 0 | 0 | 0 | 347 |
-| last720d | 2024-10-01 | 19 | 125 | 0 | 0 | 0 | 462 |
+| 30d | 2026-08-23 | 1 | 20 | 3 | 0 | 0 | 0 |
+| last60d | 2026-07-24 | 1 | 33 | 3 | 0 | 0 | 0 |
+| 90d | 2026-06-24 | 1 | 47 | 3 | 0 | 0 | 0 |
+| last180d | 2026-03-26 | 2 | 83 | 3 | 0 | 0 | 0 |
+| 360d | 2025-09-27 | 19 | 125 | 3 | 0 | 0 | 0 |
+| last720d | 2024-10-02 | 19 | 125 | 3 | 0 | 0 | 462 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for lazykiq lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T04:41:05Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T04:36:20Z._
