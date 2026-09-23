@@ -4,7 +4,7 @@
 
 rich terminal UI for Sidekiq
 
-[![x-cmd/install — lazykiq Code Quality Monitoring Repo Card](https://repo.x-cmd.io/lazykiq.svg?lang=zh)](https://x-cmd.com/install/lazykiq)
+[![x-cmd/install — lazykiq Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/lazykiq.svg?lang=zh)](https://x-cmd.com/install/lazykiq)
 
 ## 安装
 
@@ -58,12 +58,12 @@ x install lazykiq
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 20 | 3 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 1 | 33 | 3 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 1 | 47 | 3 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 2 | 83 | 3 | 0 | 0 | 0 |
-| 360d | 2025-09-27 | 19 | 125 | 3 | 0 | 0 | 0 |
-| last720d | 2024-10-02 | 19 | 125 | 3 | 0 | 0 | 462 |
+| 30d | 2026-08-24 | 1 | 17 | 3 | 0 | 0 | 10 |
+| last60d | 2026-07-25 | 1 | 33 | 3 | 0 | 0 | 33 |
+| 90d | 2026-06-25 | 1 | 47 | 3 | 0 | 0 | 55 |
+| last180d | 2026-03-27 | 2 | 82 | 3 | 0 | 0 | 89 |
+| 360d | 2025-09-28 | 19 | 125 | 3 | 0 | 0 | 347 |
+| last720d | 2024-10-03 | 19 | 125 | 3 | 0 | 0 | 462 |
 
 ## Release 资产
 
@@ -94,4 +94,4 @@ lazykiq 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:36:21Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:32:55Z._
