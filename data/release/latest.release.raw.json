@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1254,
       "digest": "sha256:0efc09761d1ad1ce2a6f590f8c1fc85a69a3dadc03338187797280ff42a791f4",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-08-25T01:10:40Z",
       "updated_at": "2026-08-25T01:10:40Z",
       "browser_download_url": "https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 12691,
       "digest": "sha256:2d7e2869c21e6739db0f9633cc6eb8744a993d9d69be12dd133ba248aa9e9b8a",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-08-25T01:10:58Z",
       "updated_at": "2026-08-25T01:10:58Z",
       "browser_download_url": "https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/checksums.txt.intoto.jsonl"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 10151,
       "digest": "sha256:19b0fec89132cb5bb146d831c1ef0d87e9e992e81dab3d0df3c208de2cce03c7",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-08-25T01:10:40Z",
       "updated_at": "2026-08-25T01:10:40Z",
       "browser_download_url": "https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/checksums.txt.sigstore.json"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 54396,
       "digest": "sha256:8f5ca51263e59cafe4a54594c497b6a21ecc2e3a9273a898c4a021b7088d04d4",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-08-25T01:10:38Z",
       "updated_at": "2026-08-25T01:10:39Z",
       "browser_download_url": "https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-darwin-arm64.tar.gz.sbom.json"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 54436,
       "digest": "sha256:39e1adf1af664cce703b16095bb6eceb1d14e1117a2a5f63687609986ab2997a",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-08-25T01:10:39Z",
       "updated_at": "2026-08-25T01:10:39Z",
       "browser_download_url": "https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-darwin-x86_64.tar.gz.sbom.json"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 54356,
       "digest": "sha256:dc89184094e34017924aa2fabf3bd47ff586a3b0d2f515157c01393938dd8600",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-08-25T01:10:39Z",
       "updated_at": "2026-08-25T01:10:39Z",
       "browser_download_url": "https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-linux-arm64.tar.gz.sbom.json"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 6440180,
       "digest": "sha256:d6a962006717756f54b956dfb3259052d9c686ec772c423a854e22efd1041454",
-      "download_count": 50,
+      "download_count": 51,
       "created_at": "2026-08-25T01:10:38Z",
       "updated_at": "2026-08-25T01:10:39Z",
       "browser_download_url": "https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-linux-x86_64.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 54396,
       "digest": "sha256:a307567bd209b3224bcf5fafdc60d21ff8cc2ecf30e069ceeb85525465d98489",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-08-25T01:10:39Z",
       "updated_at": "2026-08-25T01:10:39Z",
       "browser_download_url": "https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-linux-x86_64.tar.gz.sbom.json"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 55542,
       "digest": "sha256:828017985fd3aef15c9575f1fcc6605e798950ef03620b15f51d1cdf893acf51",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-08-25T01:10:38Z",
       "updated_at": "2026-08-25T01:10:39Z",
       "browser_download_url": "https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-windows-arm64.zip.sbom.json"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 55583,
       "digest": "sha256:e8daf3e52a9ea28c0b2d6719d08a1cbbc39760e77d613426b91d32229836a0db",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-08-25T01:10:39Z",
       "updated_at": "2026-08-25T01:10:39Z",
       "browser_download_url": "https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-windows-x86_64.zip.sbom.json"
