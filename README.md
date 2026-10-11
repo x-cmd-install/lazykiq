@@ -26,13 +26,13 @@ Total: **26,743** lines of code across **147** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **8.3 / 10**
+Overall score: **8.2 / 10**
 
 Lowest-scoring checks:
 
 - **Code-Review** (-1/10) — Found no human activity in the last 14 changesets
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Fuzzing** (0/10) — project is not fuzzed
+- **Vulnerabilities** (3/10) — 7 existing vulnerabilities detected
 
 ## Source
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 12 | 0 | 0 | 0 | 17 |
-| last60d | 2026-08-11 | 1 | 32 | 0 | 0 | 0 | 41 |
-| 90d | 2026-07-12 | 1 | 52 | 0 | 0 | 0 | 59 |
-| last180d | 2026-04-13 | 2 | 85 | 0 | 0 | 0 | 101 |
-| 360d | 2025-10-15 | 19 | 135 | 0 | 0 | 0 | 360 |
-| last720d | 2024-10-20 | 19 | 135 | 0 | 0 | 0 | 485 |
+| 30d | 2026-09-11 | 0 | 12 | 0 | 0 | 0 | 13 |
+| last60d | 2026-08-12 | 1 | 32 | 0 | 0 | 0 | 37 |
+| 90d | 2026-07-13 | 1 | 45 | 0 | 0 | 0 | 50 |
+| last180d | 2026-04-14 | 2 | 85 | 0 | 0 | 0 | 100 |
+| 360d | 2025-10-16 | 19 | 135 | 0 | 0 | 0 | 360 |
+| last720d | 2024-10-21 | 19 | 135 | 0 | 0 | 0 | 485 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for lazykiq lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T05:34:56Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T05:31:15Z._
