@@ -26,13 +26,13 @@ x install lazykiq
 
 ## OpenSSF Scorecard 评分
 
-总评分: **8.2 / 10**
+总评分: **8.3 / 10**
 
 评分最低的几项:
 
 - **Code-Review** (-1/10) — Found no human activity in the last 15 changesets
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Vulnerabilities** (3/10) — 7 existing vulnerabilities detected
+- **Vulnerabilities** (4/10) — 6 existing vulnerabilities detected
 
 ## 源代码
 
@@ -58,12 +58,12 @@ x install lazykiq
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 0 | 22 | 0 | 0 | 0 | 28 |
-| last60d | 2026-08-25 | 1 | 33 | 0 | 0 | 0 | 38 |
-| 90d | 2026-07-26 | 1 | 57 | 0 | 0 | 0 | 63 |
-| last180d | 2026-04-27 | 2 | 93 | 0 | 0 | 0 | 110 |
-| 360d | 2025-10-29 | 19 | 149 | 0 | 0 | 0 | 375 |
-| last720d | 2024-11-03 | 19 | 149 | 0 | 0 | 0 | 514 |
+| 30d | 2026-09-25 | 0 | 22 | 0 | 0 | 0 | 28 |
+| last60d | 2026-08-26 | 0 | 33 | 0 | 0 | 0 | 33 |
+| 90d | 2026-07-27 | 1 | 51 | 0 | 0 | 0 | 61 |
+| last180d | 2026-04-28 | 2 | 93 | 0 | 0 | 0 | 107 |
+| 360d | 2025-10-30 | 19 | 149 | 0 | 0 | 0 | 375 |
+| last720d | 2024-11-04 | 19 | 149 | 0 | 0 | 0 | 514 |
 
 ## Release 资产
 
@@ -94,4 +94,4 @@ lazykiq 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261024.yml` · 2026-10-24T04:20:39Z._
+_数据快照: `data/card/261025.yml` · 2026-10-25T04:24:17Z._
