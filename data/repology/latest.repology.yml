@@ -2,8 +2,8 @@
   srcname: lazykiq-bin
   binname: lazykiq-bin
   visiblename: lazykiq-bin
-  version: 0.1.2
-  origversion: 0.1.2-1
+  version: 0.2.0
+  origversion: 0.2.0-1
   status: unique
   summary: A rich terminal UI for Sidekiq.
   maintainers:
