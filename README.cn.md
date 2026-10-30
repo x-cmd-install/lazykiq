@@ -14,11 +14,11 @@ x install lazykiq
 
 ## 代码洞察
 
-合计: **36,644** 行代码（覆盖前 5 种语言、共 **201** 个文件）。
+合计: **38,297** 行代码（覆盖前 5 种语言、共 **206** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 35,205 | 1,536 | 4,551 | 166 |
+| Go | 36,858 | 1,577 | 4,663 | 171 |
 | Ruby | 492 | 50 | 111 | 15 |
 | Toml | 401 | 62 | 89 | 9 |
 | Html | 191 | 2 | 11 | 7 |
@@ -30,7 +30,7 @@ x install lazykiq
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/14 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/13 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
 - **Vulnerabilities** (4/10) — 6 existing vulnerabilities detected
 
@@ -42,8 +42,8 @@ x install lazykiq
 
 ## 发布
 
-- **最新版本**: `v0.1.2` (2026-08-25)
-- **最近提交**: 2026-10-29
+- **最新版本**: `v0.2.0` (2026-10-29)
+- **最近提交**: 2026-10-30
 - **Release 含资产**: 15 个
 
 ## 流行度
@@ -52,38 +52,38 @@ x install lazykiq
 
 ## 累计统计
 
-- **发布数**: 19 · **已合并 PR**: 179 · **开放 PR**: 1 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 579
+- **发布数**: 20 · **已合并 PR**: 186 · **开放 PR**: 1 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 597
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 52 | 1 | 0 | 0 | 63 |
-| last60d | 2026-08-30 | 0 | 63 | 1 | 0 | 0 | 68 |
-| 90d | 2026-07-31 | 1 | 81 | 1 | 0 | 0 | 96 |
-| last180d | 2026-05-02 | 2 | 123 | 1 | 0 | 0 | 142 |
-| 360d | 2025-11-03 | 19 | 179 | 1 | 0 | 0 | 410 |
-| last720d | 2024-11-08 | 19 | 179 | 1 | 0 | 0 | 579 |
+| 30d | 2026-09-30 | 1 | 59 | 1 | 0 | 0 | 74 |
+| last60d | 2026-08-31 | 1 | 66 | 1 | 0 | 0 | 79 |
+| 90d | 2026-08-01 | 2 | 88 | 1 | 0 | 0 | 107 |
+| last180d | 2026-05-03 | 3 | 130 | 1 | 0 | 0 | 153 |
+| 360d | 2025-11-04 | 20 | 186 | 1 | 0 | 0 | 421 |
+| last720d | 2024-11-09 | 20 | 186 | 1 | 0 | 0 | 597 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/checksums.txt) | 1.2 KiB | `other` |
-| [checksums.txt.intoto.jsonl](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/checksums.txt.intoto.jsonl) | 12.4 KiB | `other` |
-| [checksums.txt.sigstore.json](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/checksums.txt.sigstore.json) | 9.9 KiB | `other` |
-| [lazykiq-0.1.2-darwin-arm64.tar.gz](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-darwin-arm64.tar.gz) | 5.6 MiB | `native/darwin/arm64` |
-| [lazykiq-0.1.2-darwin-arm64.tar.gz.sbom.json](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-darwin-arm64.tar.gz.sbom.json) | 53.1 KiB | `native/darwin/arm64` |
-| [lazykiq-0.1.2-darwin-x86_64.tar.gz](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-darwin-x86_64.tar.gz) | 6.2 MiB | `native/darwin/x64` |
-| [lazykiq-0.1.2-darwin-x86_64.tar.gz.sbom.json](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-darwin-x86_64.tar.gz.sbom.json) | 53.2 KiB | `native/darwin/x64` |
-| [lazykiq-0.1.2-linux-arm64.tar.gz](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-linux-arm64.tar.gz) | 5.4 MiB | `native/linux/arm64` |
-| [lazykiq-0.1.2-linux-arm64.tar.gz.sbom.json](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-linux-arm64.tar.gz.sbom.json) | 53.1 KiB | `native/linux/arm64` |
-| [lazykiq-0.1.2-linux-x86_64.tar.gz](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-linux-x86_64.tar.gz) | 6.1 MiB | `native/linux/x64` |
-| [lazykiq-0.1.2-linux-x86_64.tar.gz.sbom.json](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-linux-x86_64.tar.gz.sbom.json) | 53.1 KiB | `native/linux/x64` |
-| [lazykiq-0.1.2-windows-arm64.zip](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-windows-arm64.zip) | 5.5 MiB | `native/win/arm64` |
-| [lazykiq-0.1.2-windows-arm64.zip.sbom.json](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-windows-arm64.zip.sbom.json) | 54.2 KiB | `native/win/arm64` |
-| [lazykiq-0.1.2-windows-x86_64.zip](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-windows-x86_64.zip) | 6.3 MiB | `native/win/x64` |
-| [lazykiq-0.1.2-windows-x86_64.zip.sbom.json](https://github.com/kpumuk/lazykiq/releases/download/v0.1.2/lazykiq-0.1.2-windows-x86_64.zip.sbom.json) | 54.3 KiB | `native/win/x64` |
+| [checksums.txt](https://github.com/kpumuk/lazykiq/releases/download/v0.2.0/checksums.txt) | 1.2 KiB | `other` |
+| [checksums.txt.intoto.jsonl](https://github.com/kpumuk/lazykiq/releases/download/v0.2.0/checksums.txt.intoto.jsonl) | 12.4 KiB | `other` |
+| [checksums.txt.sigstore.json](https://github.com/kpumuk/lazykiq/releases/download/v0.2.0/checksums.txt.sigstore.json) | 10.0 KiB | `other` |
+| [lazykiq-0.2.0-darwin-arm64.tar.gz](https://github.com/kpumuk/lazykiq/releases/download/v0.2.0/lazykiq-0.2.0-darwin-arm64.tar.gz) | 6.1 MiB | `native/darwin/arm64` |
+| [lazykiq-0.2.0-darwin-arm64.tar.gz.sbom.json](https://github.com/kpumuk/lazykiq/releases/download/v0.2.0/lazykiq-0.2.0-darwin-arm64.tar.gz.sbom.json) | 53.0 KiB | `native/darwin/arm64` |
+| [lazykiq-0.2.0-darwin-x86_64.tar.gz](https://github.com/kpumuk/lazykiq/releases/download/v0.2.0/lazykiq-0.2.0-darwin-x86_64.tar.gz) | 6.7 MiB | `native/darwin/x64` |
+| [lazykiq-0.2.0-darwin-x86_64.tar.gz.sbom.json](https://github.com/kpumuk/lazykiq/releases/download/v0.2.0/lazykiq-0.2.0-darwin-x86_64.tar.gz.sbom.json) | 53.0 KiB | `native/darwin/x64` |
+| [lazykiq-0.2.0-linux-arm64.tar.gz](https://github.com/kpumuk/lazykiq/releases/download/v0.2.0/lazykiq-0.2.0-linux-arm64.tar.gz) | 5.9 MiB | `native/linux/arm64` |
+| [lazykiq-0.2.0-linux-arm64.tar.gz.sbom.json](https://github.com/kpumuk/lazykiq/releases/download/v0.2.0/lazykiq-0.2.0-linux-arm64.tar.gz.sbom.json) | 52.9 KiB | `native/linux/arm64` |
+| [lazykiq-0.2.0-linux-x86_64.tar.gz](https://github.com/kpumuk/lazykiq/releases/download/v0.2.0/lazykiq-0.2.0-linux-x86_64.tar.gz) | 6.6 MiB | `native/linux/x64` |
+| [lazykiq-0.2.0-linux-x86_64.tar.gz.sbom.json](https://github.com/kpumuk/lazykiq/releases/download/v0.2.0/lazykiq-0.2.0-linux-x86_64.tar.gz.sbom.json) | 53.0 KiB | `native/linux/x64` |
+| [lazykiq-0.2.0-windows-arm64.zip](https://github.com/kpumuk/lazykiq/releases/download/v0.2.0/lazykiq-0.2.0-windows-arm64.zip) | 5.9 MiB | `native/win/arm64` |
+| [lazykiq-0.2.0-windows-arm64.zip.sbom.json](https://github.com/kpumuk/lazykiq/releases/download/v0.2.0/lazykiq-0.2.0-windows-arm64.zip.sbom.json) | 54.1 KiB | `native/win/arm64` |
+| [lazykiq-0.2.0-windows-x86_64.zip](https://github.com/kpumuk/lazykiq/releases/download/v0.2.0/lazykiq-0.2.0-windows-x86_64.zip) | 6.8 MiB | `native/win/x64` |
+| [lazykiq-0.2.0-windows-x86_64.zip.sbom.json](https://github.com/kpumuk/lazykiq/releases/download/v0.2.0/lazykiq-0.2.0-windows-x86_64.zip.sbom.json) | 54.1 KiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -94,4 +94,4 @@ lazykiq 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261029.yml` · 2026-10-29T05:30:45Z._
+_数据快照: `data/card/261030.yml` · 2026-10-30T05:31:04Z._
