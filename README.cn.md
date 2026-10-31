@@ -14,25 +14,25 @@ x install lazykiq
 
 ## 代码洞察
 
-合计: **38,297** 行代码（覆盖前 5 种语言、共 **206** 个文件）。
+合计: **42,635** 行代码（覆盖前 5 种语言、共 **229** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 36,858 | 1,577 | 4,663 | 171 |
-| Ruby | 492 | 50 | 111 | 15 |
+| Go | 41,143 | 1,690 | 4,949 | 192 |
+| Ruby | 545 | 54 | 126 | 17 |
 | Toml | 401 | 62 | 89 | 9 |
 | Html | 191 | 2 | 11 | 7 |
 | JavaScript | 181 | 21 | 19 | 4 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **8.1 / 10**
+总评分: **8 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/13 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/12 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Vulnerabilities** (4/10) — 6 existing vulnerabilities detected
+- **Vulnerabilities** (2/10) — 8 existing vulnerabilities detected
 
 ## 源代码
 
@@ -43,7 +43,7 @@ x install lazykiq
 ## 发布
 
 - **最新版本**: `v0.2.0` (2026-10-29)
-- **最近提交**: 2026-10-30
+- **最近提交**: 2026-10-31
 - **Release 含资产**: 15 个
 
 ## 流行度
@@ -52,18 +52,18 @@ x install lazykiq
 
 ## 累计统计
 
-- **发布数**: 20 · **已合并 PR**: 186 · **开放 PR**: 1 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 597
+- **发布数**: 20 · **已合并 PR**: 194 · **开放 PR**: 2 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 616
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 1 | 59 | 1 | 0 | 0 | 74 |
-| last60d | 2026-08-31 | 1 | 66 | 1 | 0 | 0 | 79 |
-| 90d | 2026-08-01 | 2 | 88 | 1 | 0 | 0 | 107 |
-| last180d | 2026-05-03 | 3 | 130 | 1 | 0 | 0 | 153 |
-| 360d | 2025-11-04 | 20 | 186 | 1 | 0 | 0 | 421 |
-| last720d | 2024-11-09 | 20 | 186 | 1 | 0 | 0 | 597 |
+| 30d | 2026-10-01 | 1 | 67 | 2 | 0 | 0 | 85 |
+| last60d | 2026-09-01 | 1 | 74 | 2 | 0 | 0 | 90 |
+| 90d | 2026-08-02 | 2 | 96 | 2 | 0 | 0 | 118 |
+| last180d | 2026-05-04 | 3 | 135 | 2 | 0 | 0 | 164 |
+| 360d | 2025-11-05 | 20 | 194 | 2 | 0 | 0 | 432 |
+| last720d | 2024-11-10 | 20 | 194 | 2 | 0 | 0 | 616 |
 
 ## Release 资产
 
@@ -94,4 +94,4 @@ lazykiq 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261030.yml` · 2026-10-30T05:31:04Z._
+_数据快照: `data/card/261031.yml` · 2026-10-31T05:16:52Z._
