@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 6945310,
       "digest": "sha256:eac4b9696f204c3db282a6755e9136e47ead3ac31f881d8d1002b886749379f4",
-      "download_count": 15,
+      "download_count": 17,
       "created_at": "2026-10-29T16:34:12Z",
       "updated_at": "2026-10-29T16:34:13Z",
       "browser_download_url": "https://github.com/kpumuk/lazykiq/releases/download/v0.2.0/lazykiq-0.2.0-linux-x86_64.tar.gz"
