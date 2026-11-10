@@ -30,7 +30,7 @@ Overall score: **8 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/10 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/9 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
 - **Vulnerabilities** (2/10) — 8 existing vulnerabilities detected
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.2.0` (2026-10-29)
-- **Last commit**: 2026-11-04
+- **Last commit**: 2026-11-09
 - **Assets in release**: 15
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 206 · **Open PRs**: 1 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 643
+- **Releases**: 20 · **Merged PRs**: 210 · **Open PRs**: 1 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 651
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 1 | 71 | 1 | 0 | 0 | 84 |
-| last60d | 2026-09-09 | 1 | 83 | 1 | 0 | 0 | 100 |
-| 90d | 2026-08-10 | 2 | 103 | 1 | 0 | 0 | 124 |
-| last180d | 2026-05-12 | 2 | 142 | 1 | 0 | 0 | 165 |
-| 360d | 2025-11-13 | 20 | 206 | 1 | 0 | 0 | 447 |
-| last720d | 2024-11-18 | 20 | 206 | 1 | 0 | 0 | 643 |
+| 30d | 2026-10-11 | 1 | 75 | 1 | 0 | 0 | 88 |
+| last60d | 2026-09-11 | 1 | 87 | 1 | 0 | 0 | 104 |
+| 90d | 2026-08-12 | 2 | 107 | 1 | 0 | 0 | 128 |
+| last180d | 2026-05-14 | 2 | 146 | 1 | 0 | 0 | 169 |
+| 360d | 2025-11-15 | 20 | 210 | 1 | 0 | 0 | 451 |
+| last720d | 2024-11-20 | 20 | 210 | 1 | 0 | 0 | 651 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for lazykiq lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T05:47:04Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:00:19Z._
