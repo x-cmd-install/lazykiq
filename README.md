@@ -30,7 +30,7 @@ Overall score: **8.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/8 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/4 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
 - **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.2.0` (2026-10-29)
-- **Last commit**: 2026-11-11
+- **Last commit**: 2026-11-16
 - **Assets in release**: 15
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 221 · **Open PRs**: 1 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 684
+- **Releases**: 20 · **Merged PRs**: 226 · **Open PRs**: 1 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 694
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 81 | 1 | 0 | 0 | 98 |
-| last60d | 2026-09-17 | 1 | 96 | 1 | 0 | 0 | 126 |
-| 90d | 2026-08-18 | 2 | 116 | 1 | 0 | 0 | 150 |
-| last180d | 2026-05-20 | 2 | 154 | 1 | 0 | 0 | 185 |
-| 360d | 2025-11-21 | 20 | 221 | 1 | 0 | 0 | 473 |
-| last720d | 2024-11-26 | 20 | 221 | 1 | 0 | 0 | 684 |
+| 30d | 2026-10-18 | 1 | 86 | 1 | 0 | 0 | 103 |
+| last60d | 2026-09-18 | 1 | 101 | 1 | 0 | 0 | 131 |
+| 90d | 2026-08-19 | 2 | 121 | 1 | 0 | 0 | 155 |
+| last180d | 2026-05-21 | 2 | 159 | 1 | 0 | 0 | 190 |
+| 360d | 2025-11-22 | 20 | 226 | 1 | 0 | 0 | 478 |
+| last720d | 2024-11-27 | 20 | 226 | 1 | 0 | 0 | 694 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for lazykiq lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:05:13Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T07:43:56Z._
