@@ -14,11 +14,11 @@ x install lazykiq
 
 ## Code insight
 
-Total: **44,523** lines of code across **237** files in the top 5 languages.
+Total: **44,965** lines of code across **238** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 43,006 | 1,729 | 5,052 | 199 |
+| Go | 43,448 | 1,736 | 5,068 | 200 |
 | Ruby | 559 | 56 | 129 | 18 |
 | Toml | 412 | 62 | 91 | 9 |
 | Html | 191 | 2 | 11 | 7 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.2.0` (2026-10-29)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-24
 - **Assets in release**: 15
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 232 · **Open PRs**: 2 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 706
+- **Releases**: 20 · **Merged PRs**: 233 · **Open PRs**: 1 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 708
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 83 | 2 | 0 | 0 | 63 |
-| last60d | 2026-09-25 | 1 | 105 | 2 | 0 | 0 | 137 |
-| 90d | 2026-08-26 | 1 | 116 | 2 | 0 | 0 | 147 |
-| last180d | 2026-05-28 | 2 | 161 | 2 | 0 | 0 | 196 |
-| 360d | 2025-11-29 | 20 | 232 | 2 | 0 | 0 | 484 |
-| last720d | 2024-12-04 | 20 | 232 | 2 | 0 | 0 | 706 |
+| 30d | 2026-10-26 | 1 | 78 | 1 | 0 | 0 | 64 |
+| last60d | 2026-09-26 | 1 | 106 | 1 | 0 | 0 | 138 |
+| 90d | 2026-08-27 | 1 | 117 | 1 | 0 | 0 | 148 |
+| last180d | 2026-05-29 | 2 | 162 | 1 | 0 | 0 | 197 |
+| 360d | 2025-11-30 | 20 | 233 | 1 | 0 | 0 | 485 |
+| last720d | 2024-12-05 | 20 | 233 | 1 | 0 | 0 | 708 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for lazykiq lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T09:39:16Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:11:11Z._
