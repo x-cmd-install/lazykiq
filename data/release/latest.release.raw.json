@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1254,
       "digest": "sha256:801ef93e933f9c2f32ea4e92d89b26955166077b8494198b9257c2f5d1776d49",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-10-29T16:34:15Z",
       "updated_at": "2026-10-29T16:34:15Z",
       "browser_download_url": "https://github.com/kpumuk/lazykiq/releases/download/v0.2.0/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 12724,
       "digest": "sha256:286f2a8c900b05d89835e1e583399eadae8fbe9dbd7a7167f2771c5dd2b85ae2",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2026-10-29T16:34:48Z",
       "updated_at": "2026-10-29T16:34:48Z",
       "browser_download_url": "https://github.com/kpumuk/lazykiq/releases/download/v0.2.0/checksums.txt.intoto.jsonl"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 10279,
       "digest": "sha256:0b3d2b9dc982ccce08d581afdf77470caf6e4fb02d7117b5ae09623e702cd7cc",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-10-29T16:34:15Z",
       "updated_at": "2026-10-29T16:34:15Z",
       "browser_download_url": "https://github.com/kpumuk/lazykiq/releases/download/v0.2.0/checksums.txt.sigstore.json"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6396843,
       "digest": "sha256:1735df683748490fff1f3edb19e18162941faad28743c3cf5ac4310d99d07353",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-10-29T16:34:12Z",
       "updated_at": "2026-10-29T16:34:12Z",
       "browser_download_url": "https://github.com/kpumuk/lazykiq/releases/download/v0.2.0/lazykiq-0.2.0-darwin-arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 54274,
       "digest": "sha256:a490ac3740e561b9d764a1aad569ac3fab81364b18cee2dc5613e7a7e74ed0f6",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2026-10-29T16:34:14Z",
       "updated_at": "2026-10-29T16:34:14Z",
       "browser_download_url": "https://github.com/kpumuk/lazykiq/releases/download/v0.2.0/lazykiq-0.2.0-darwin-x86_64.tar.gz.sbom.json"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 54194,
       "digest": "sha256:a11a37ad2cd3fcf0d5bbed56cc76c0bd0699d70b0365c95902b953ca527d311e",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2026-10-29T16:34:13Z",
       "updated_at": "2026-10-29T16:34:14Z",
       "browser_download_url": "https://github.com/kpumuk/lazykiq/releases/download/v0.2.0/lazykiq-0.2.0-linux-arm64.tar.gz.sbom.json"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 6945310,
       "digest": "sha256:eac4b9696f204c3db282a6755e9136e47ead3ac31f881d8d1002b886749379f4",
-      "download_count": 44,
+      "download_count": 45,
       "created_at": "2026-10-29T16:34:12Z",
       "updated_at": "2026-10-29T16:34:13Z",
       "browser_download_url": "https://github.com/kpumuk/lazykiq/releases/download/v0.2.0/lazykiq-0.2.0-linux-x86_64.tar.gz"
