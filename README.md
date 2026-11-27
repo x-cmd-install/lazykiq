@@ -14,11 +14,11 @@ x install lazykiq
 
 ## Code insight
 
-Total: **44,082** lines of code across **239** files in the top 5 languages.
+Total: **44,567** lines of code across **241** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 42,565 | 1,703 | 4,943 | 201 |
+| Go | 43,050 | 1,751 | 4,977 | 203 |
 | Ruby | 559 | 56 | 129 | 18 |
 | Toml | 412 | 62 | 91 | 9 |
 | Html | 191 | 2 | 11 | 7 |
@@ -30,7 +30,7 @@ Overall score: **8.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/4 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/9 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
 - **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
 
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 236 · **Open PRs**: 2 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 714
+- **Releases**: 20 · **Merged PRs**: 241 · **Open PRs**: 1 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 724
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 1 | 76 | 2 | 0 | 0 | 67 |
-| last60d | 2026-09-27 | 1 | 109 | 2 | 0 | 0 | 141 |
-| 90d | 2026-08-28 | 1 | 120 | 2 | 0 | 0 | 151 |
-| last180d | 2026-05-30 | 2 | 165 | 2 | 0 | 0 | 200 |
-| 360d | 2025-12-01 | 20 | 236 | 2 | 0 | 0 | 488 |
-| last720d | 2024-12-06 | 20 | 236 | 2 | 0 | 0 | 714 |
+| 30d | 2026-10-28 | 1 | 69 | 1 | 0 | 0 | 72 |
+| last60d | 2026-09-28 | 1 | 114 | 1 | 0 | 0 | 146 |
+| 90d | 2026-08-29 | 1 | 125 | 1 | 0 | 0 | 156 |
+| last180d | 2026-05-31 | 2 | 170 | 1 | 0 | 0 | 205 |
+| 360d | 2025-12-02 | 20 | 241 | 1 | 0 | 0 | 493 |
+| last720d | 2024-12-07 | 20 | 241 | 1 | 0 | 0 | 724 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for lazykiq lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T07:59:09Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:00:48Z._

@@ -14,11 +14,11 @@ x install lazykiq
 
 ## 代码洞察
 
-合计: **44,082** 行代码（覆盖前 5 种语言、共 **239** 个文件）。
+合计: **44,567** 行代码（覆盖前 5 种语言、共 **241** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 42,565 | 1,703 | 4,943 | 201 |
+| Go | 43,050 | 1,751 | 4,977 | 203 |
 | Ruby | 559 | 56 | 129 | 18 |
 | Toml | 412 | 62 | 91 | 9 |
 | Html | 191 | 2 | 11 | 7 |
@@ -30,7 +30,7 @@ x install lazykiq
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/4 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/9 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
 - **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
 
@@ -52,18 +52,18 @@ x install lazykiq
 
 ## 累计统计
 
-- **发布数**: 20 · **已合并 PR**: 236 · **开放 PR**: 2 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 714
+- **发布数**: 20 · **已合并 PR**: 241 · **开放 PR**: 1 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 724
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 1 | 76 | 2 | 0 | 0 | 67 |
-| last60d | 2026-09-27 | 1 | 109 | 2 | 0 | 0 | 141 |
-| 90d | 2026-08-28 | 1 | 120 | 2 | 0 | 0 | 151 |
-| last180d | 2026-05-30 | 2 | 165 | 2 | 0 | 0 | 200 |
-| 360d | 2025-12-01 | 20 | 236 | 2 | 0 | 0 | 488 |
-| last720d | 2024-12-06 | 20 | 236 | 2 | 0 | 0 | 714 |
+| 30d | 2026-10-28 | 1 | 69 | 1 | 0 | 0 | 72 |
+| last60d | 2026-09-28 | 1 | 114 | 1 | 0 | 0 | 146 |
+| 90d | 2026-08-29 | 1 | 125 | 1 | 0 | 0 | 156 |
+| last180d | 2026-05-31 | 2 | 170 | 1 | 0 | 0 | 205 |
+| 360d | 2025-12-02 | 20 | 241 | 1 | 0 | 0 | 493 |
+| last720d | 2024-12-07 | 20 | 241 | 1 | 0 | 0 | 724 |
 
 ## Release 资产
 
@@ -94,4 +94,4 @@ lazykiq 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261126.yml` · 2026-11-26T07:59:10Z._
+_数据快照: `data/card/261127.yml` · 2026-11-27T08:00:49Z._
